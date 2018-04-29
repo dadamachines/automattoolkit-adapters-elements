@@ -2,7 +2,13 @@
 
 The designs for the laser cut adapters & elements from the [automat toolkit](https://www.kickstarter.com/projects/1481744082/dadamachines-music-machines-for-everyone).
 
+Assembly instructions and pictures can be found [here](https://dadamachines.com/getstarted/automat-toolkit-adapters-elements-assembly/). 
+
+Get your own automat toolkit [here](https://dadamachines.com/shop/).
+
 ```
+available designs
+
 elements
 - material drum
 - little wingman
