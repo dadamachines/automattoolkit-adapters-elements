@@ -2,9 +2,15 @@
 
 The designs for the laser cut adapters & elements from the [automat toolkit](https://www.kickstarter.com/projects/1481744082/dadamachines-music-machines-for-everyone).
 
-Assembly instructions and pictures can be found [here](https://dadamachines.com/getstarted/automat-toolkit-adapters-elements-assembly/). 
+## Material specification:
+- Wooden parts are 3mm thickness MDF / HDF 
+- Acrylic parts are 3mm thickness (PLEXIGLAS® Resist 0RA65 GT)
 
-Get your own automat toolkit [here](https://dadamachines.com/shop/).
+## Assembly instructions
+Can be found [here](https://dadamachines.com/getstarted/automat-toolkit-adapters-elements-assembly/). 
+
+## Get your own automat toolkit
+The dadamachines webshop is [here](https://dadamachines.com/shop/).
 
 ```
 available designs
