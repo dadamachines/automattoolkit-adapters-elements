@@ -2,6 +2,21 @@
 
 The designs for the laser cut adapters & elements from the [automat toolkit](https://www.kickstarter.com/projects/1481744082/dadamachines-music-machines-for-everyone).
 
+## Available designs
+```
+Elements
+- material drum
+- little wingman
+- round object mount
+- mallet
+
+Adapters
+- microphone stand adapter (only wooden part)
+- lego adapter
+- makerbeam adapter
+
+```
+
 ## Material specification:
 - Wooden parts are 3mm thickness MDF / HDF 
 - Acrylic parts are 3mm thickness (PLEXIGLAS® Resist 0RA65 GT)
@@ -11,22 +26,6 @@ Can be found [here](https://dadamachines.com/getstarted/automat-toolkit-adapters
 
 ## Get your own automat toolkit
 The dadamachines webshop is [here](https://dadamachines.com/shop/).
-
-```
-available designs
-
-elements
-- material drum
-- little wingman
-- round object mount
-- mallet
-
-adapters
-- microphone stand adapter (only wooden part)
-- lego adapter
-- makerbeam adapter
-
-```
 
 The designs are created with a CAD-Tool (2D) and edited in Adobe Illustrator. 
 The PDFs can be opened & edited with Illustrator or other SoftwareTools for Vector files.
