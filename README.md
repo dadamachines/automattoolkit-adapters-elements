@@ -16,6 +16,8 @@ Adapters
 - makerbeam adapter
 
 ```
+The designs are created with a CAD-Tool (2D) and edited in Adobe Illustrator. 
+The PDFs can be opened & edited with Illustrator or other SoftwareTools for Vector files.
 
 ## Material specification:
 - Wooden parts are 3mm thickness MDF / HDF 
@@ -26,9 +28,6 @@ Can be found [here](https://dadamachines.com/getstarted/automat-toolkit-adapters
 
 ## Get your own automat toolkit
 The dadamachines webshop is [here](https://dadamachines.com/shop/).
-
-The designs are created with a CAD-Tool (2D) and edited in Adobe Illustrator. 
-The PDFs can be opened & edited with Illustrator or other SoftwareTools for Vector files.
 
 ## Contribute 
 Community contributions and adaptions are very welcome. 
